@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allmenu</key>
+	<array>
+		<dict>
+			<key>desc</key>
+			<string>This class uses the helper method SRCoreDataManager. This helper class enables users to perform Core Data functions in the background queue without blocking the Main Queue hence the UI never freezes. The main function of this Helper class is that the actions are SERIAL, ie all the actions are kept on a serial queue and are performed in a FIFO manner but still this whole operation takes place in a background queue.</string>
+			<key>name</key>
+			<string>Serial Core Data Functions</string>
+		</dict>
+	</array>
+</dict>
+</plist>
