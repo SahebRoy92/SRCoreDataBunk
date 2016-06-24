@@ -1,6 +1,7 @@
 # SRCoreDataBunk
 
-This repository contains Examples on simple and complex Core data Functions and design patterns
+This repository contains Examples on simple and complex Core data Functions and design patterns, containing helper classes that would help in making complex operations simple and in a more modular way.
+
 **SRCoreDataSingleton**
 This repo has an abstract Core Data stack singleton class that has capabilities of - 
 * Lightweight migration
